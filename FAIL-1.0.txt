@@ -1,0 +1,68 @@
+FAIR AI LICENSE (FAIL) v1.2
+
+Copyright © 2026 [INSERT COPYRIGHT HOLDER HERE]
+
+1. Definitions
+
+“Software” means the source code, documentation, data, and associated files made available under this License.
+“AI System” means any machine learning, neural network, statistical, or algorithmic system that learns patterns from data by adjusting parameters through training, fine-tuning, or similar processes.
+“AI Training” means the use of the Software, or any substantial portion thereof, as training data, training input, fine-tuning material, or for the generation of synthetic training data for an AI System.
+“Model” means a trained AI System whose parameters have been materially adjusted through AI Training.
+
+2. Grant of Rights (General Use)
+
+The above copyright notice and this License shall be included in all
+copies or substantial portions of the Software.
+
+Subject to the terms of this License, permission is hereby granted, free of charge, to any person obtaining a copy of the Software to:
+   - use
+   - copy
+   - modify
+   - merge
+   - publish
+   - distribute
+   - sublicense
+   - sell
+copies of the Software.
+
+3. Restriction on AI Training
+
+This License does not grant permission to use the Software for AI Training.
+Any use of the Software for AI Training requires a separate license as described in Section 4.
+
+4. AI Training License Fee
+
+Permission to use the Software for AI Training is granted only upon payment of an AI Training License Fee in the amount specified below:
+
+AI Training License Fee of [INSERT AMOUNT IN NUMBERS] ([INSERT AMOUNT IN WORDS]) per Model trained
+    - The fee applies per Model, not per training run, experiment, checkpoint, or iteration.
+    - Training multiple Models requires payment of the fee for each Model.
+
+The Licensor may grant alternative AI Training licenses under separate written agreements at their discretion.
+
+5. Unauthorized AI Training
+
+Any AI Training use of the Software without payment of the applicable AI Training License Fee is not licensed under this License and constitutes unauthorized use of the Software.
+
+6. Termination
+
+Any breach of this License automatically terminates all rights granted herein.
+Upon termination, the user must immediately cease all use, copying, modification, and distribution of the Software.
+
+7. Disclaimer of Warranty
+
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+
+8. Limitation of Liability
+
+IN NO EVENT SHALL THE LICENSOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+9. Governing Law
+
+This License shall be governed by and construed in accordance with the laws of [INSERT JURISDICTION HERE], without regard to conflict-of-law principles.
+
+10. Acceptance
+
+Use, copying, modification, or distribution of the Software constitutes acceptance of the terms of this License.
+
+End of License
